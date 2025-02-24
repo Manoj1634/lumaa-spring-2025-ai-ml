@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 To run the application, execute the following command from the root directory of the project:
 ```bash
-streamlit run new_app.py
+streamlit run newapp.py
 ```
 
 
